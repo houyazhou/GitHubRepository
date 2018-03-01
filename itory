@@ -1,0 +1,85 @@
+*   [33mcommit 3b2daa373239462877c7d5eb1bd0a358f33eb2ca[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: 0b2895f 164d0ec
+[31m|[m [32m|[m Author: houyazhou <912136642@qq.com>
+[31m|[m [32m|[m Date:   Thu Mar 1 11:22:39 2018 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     merge with no-ff
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 164d0ec9c1c4fc8ef9081e20839d9c1e39a9a95d[m[33m ([m[1;32mdev[m[33m)[m
+[31m|[m[31m/[m  Author: houyazhou <912136642@qq.com>
+[31m|[m   Date:   Thu Mar 1 11:18:06 2018 +0800
+[31m|[m   
+[31m|[m       --no-ff
+[31m|[m   
+*   [33mcommit 0b2895f2c30d256f785bf906ff95b3ddecfcb1db[m
+[33m|[m[34m\[m  Merge: 5f26173 33935ab
+[33m|[m [34m|[m Author: houyazhou <912136642@qq.com>
+[33m|[m [34m|[m Date:   Wed Feb 28 17:21:09 2018 +0800
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     conflict
+[33m|[m [34m|[m 
+[33m|[m * [33mcommit 33935ab3988f05abb6b1c8286ea6b1f50235acda[m
+[33m|[m [34m|[m Author: houyazhou <912136642@qq.com>
+[33m|[m [34m|[m Date:   Wed Feb 28 16:54:35 2018 +0800
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     &simple
+[33m|[m [34m|[m 
+[33m|[m * [33mcommit cb6d0b594b2bce111a026379a15759e7038b9e4d[m
+[33m|[m [34m|[m Author: houyazhou <912136642@qq.com>
+[33m|[m [34m|[m Date:   Wed Feb 28 16:39:08 2018 +0800
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     branch feature1
+[33m|[m [34m|[m 
+* [34m|[m [33mcommit 5f261738949a71c22ad6f5f2f736b3f6f51606fe[m
+[34m|[m[34m/[m  Author: houyazhou <912136642@qq.com>
+[34m|[m   Date:   Wed Feb 28 16:57:51 2018 +0800
+[34m|[m   
+[34m|[m       AND simple
+[34m|[m 
+* [33mcommit e9fcac59ae34caa0e0e056f7c801fcb1af5f9596[m
+[34m|[m Author: houyazhou <912136642@qq.com>
+[34m|[m Date:   Wed Feb 28 16:08:28 2018 +0800
+[34m|[m 
+[34m|[m     branch test
+[34m|[m 
+* [33mcommit 2f1f4ebf573ef74ae2be1fbba9e5f816070f0712[m[33m ([m[1;31morigin/master[m[33m)[m
+[34m|[m Author: houyazhou <912136642@qq.com>
+[34m|[m Date:   Sat Feb 24 16:58:45 2018 +0800
+[34m|[m 
+[34m|[m     commit again
+[34m|[m 
+* [33mcommit c6e5926fd1944874f2944b10562d97627562ab22[m
+[34m|[m Author: houyazhou <912136642@qq.com>
+[34m|[m Date:   Sat Feb 24 16:20:45 2018 +0800
+[34m|[m 
+[34m|[m     git strack changes
+[34m|[m 
+* [33mcommit f1884306a55ccbe55d69d5466930e51ec823907b[m
+[34m|[m Author: houyazhou <912136642@qq.com>
+[34m|[m Date:   Sat Feb 24 16:15:32 2018 +0800
+[34m|[m 
+[34m|[m     understand how stage works
+[34m|[m 
+* [33mcommit b6d5dd7bd0451b38db9f3c06066b8471ef379bed[m
+[34m|[m Author: houyazhou <912136642@qq.com>
+[34m|[m Date:   Sat Feb 24 15:38:36 2018 +0800
+[34m|[m 
+[34m|[m     add GPL
+[34m|[m 
+* [33mcommit 51e0980f96b5a57142d2b7df28b2069649bf6f9d[m
+[34m|[m Author: houyazhou <912136642@qq.com>
+[34m|[m Date:   Sat Feb 24 15:34:54 2018 +0800
+[34m|[m 
+[34m|[m     change readme file
+[34m|[m 
+* [33mcommit a9c8ab910a88a3caf4ca6131a70fedc53392d562[m
+[34m|[m Author: houyazhou <912136642@qq.com>
+[34m|[m Date:   Sat Feb 24 15:26:31 2018 +0800
+[34m|[m 
+[34m|[m     change readme file
+[34m|[m 
+* [33mcommit cd9cae989faacc43da34b2d8cc041fd27b006126[m
+  Author: houyazhou <912136642@qq.com>
+  Date:   Sat Feb 24 15:18:00 2018 +0800
+  
+      add a readme file
